@@ -2,3 +2,7 @@
 add text
 
 new line
+line5
+line6
+line7
+
